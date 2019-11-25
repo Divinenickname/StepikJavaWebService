@@ -1,10 +1,10 @@
-package main;
+package HW01.main;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
-import servlets.AllRequestsServlet;
-import servlets.MirrorServlet;
+import HW01.servlets.AllRequestsServlet;
+import HW01.servlets.MirrorServlet;
 
 public class Main {
     public static void main(String[] args) throws Exception {
