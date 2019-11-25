@@ -1,6 +1,6 @@
-package servlets;
+package HW01.servlets;
 
-import templater.PageGenerator;
+import HW01.templater.PageGenerator;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

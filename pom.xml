@@ -30,7 +30,7 @@
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>main.Main</mainClass>
+                            <mainClass>HW01.main.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
